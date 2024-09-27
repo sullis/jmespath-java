@@ -14,7 +14,7 @@
   </parent>
 
   <properties>
-    <antlr.version>4.9.3</antlr.version>
+    <antlr.version>4.13.2</antlr.version>
   </properties>
 
   <dependencies>
